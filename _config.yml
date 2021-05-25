@@ -2,7 +2,7 @@
 title: My Portfolio
 subtitle: Nikhil Sunka
 email: nikhilsunka69@gmail.com
-description: 
+description: Midterm Project
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -11,7 +11,7 @@ city: Glassboro
 state: New Jersey
 zip_code: 08028
 country: United States of America
-phone: 8565428655
+phone: +1 8565428655
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
