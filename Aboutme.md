@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>About me</h2>
 		</header>
-		<p> I'am an International Student from India, My Major is Computer Science, i'm a senior </p>
+		<p> I'am an International Student from India, My Major is Computer Science, i'm a senior. This is a Mid Term Mini project  - (Adv) Web Programming Course </p>
 	</div>
 </section>
 
